@@ -1,7 +1,7 @@
 {
     "name": "mvc-tech-blog",
     "version": "1.0.0",
-    "description": "[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)",
+    "description": "",
     "main": "server.js",
     "engines": {
       "node": "14.x",
